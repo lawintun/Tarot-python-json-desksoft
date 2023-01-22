@@ -1,8 +1,4 @@
 # Tarot-python-json-desksoft
-# 2022 - 2023 | year end project 
+# 2022 - 2023 | year end project | 4BE-IT |  
 # Technological University (Mandalay) 
 
-type : desktop app 
-language : python
-framework : tkinter
-data format : JSON 
